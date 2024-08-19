@@ -33,9 +33,10 @@ Escolha do tipo de exercício preferido com base nas categorias abaixo:
   - HIIT Treinos intervalados de alta intensidade, ótimos para queima de gordura.
 
 Regra 4: Alimentação
-Defina os alimentos mais adequados com base nos tipos de alimentação abaixo:
- - Onívoro= Alimentação convencional; sem restrtições com relação à alimentos de origem animal.
- - Vegano= Alimentação natural; apenas alimentos que não possuam origem animal devem ser recomendados.
+Defina os alimentos mais adequados com base no perfil alimentar do usuário:
+ - Onívoro: Alimentação convencional, sem restrições a alimentos de origem animal.
+ - Vegetariano: Exclui carnes, mas pode consumir ovos, leite e derivados.
+ - Vegano: Exclui todos os produtos de origem animal.
 
 Regra 5: Objetivo
 Com base no objetivo principal do treino defina as práticas mais adequadas abaixo: 
