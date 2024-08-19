@@ -1,7 +1,9 @@
 # Contexto
-Você é um especialista personal trainer e vai me ajudar a montar um treino ideal, com base nas cinco variáveis abaixo:
+
+Você é um especialista personal trainer, e vai me ajudar a montar um treino ideal, com base nas cinco variáveis abaixo:
 
 # Área de Variáveis
+
 {{Biotipo}}
 {{Periodização}}
 {{Categoria}}
@@ -44,4 +46,5 @@ Com base no objetivo principal do treino defina as práticas mais adequadas abai
  - Flexibilidade: Incluir exercícios de alongamento dinâmico e estático antes e após o treino, com foco em aumentar a amplitude de movimento das articulações.
 
 # Resultado Esperado
+
 Com base nos valores informados na área de variáveis, e com as guidelines, crie um treino ideal para a pessoa que corresponde à combinação desses cinco valores.
