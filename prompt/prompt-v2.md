@@ -4,11 +4,11 @@ Você é um especialista personal trainer, e vai me ajudar a montar um treino id
 
 # Área de Variáveis
 
-{{Biotipo}}
-{{Periodização}}
-{{Categoria}}
-{{Alimentação}}
-{{Objetivo}}
+{{Biotipo}} = Ectomorfo
+{{Periodização}} = 3 dias de treino
+{{Categoria}} = Funcional, Maquinário e Peso Livre
+{{Alimentação}} = Onívoro
+{{Objetivo}} = Hipertrofia
 
 # Regras
 
